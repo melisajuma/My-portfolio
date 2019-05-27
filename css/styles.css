@@ -70,3 +70,13 @@ h4{
     padding:2%;
     text-align:center;
 }
+#About{
+    margin-top:10%;
+    margin-bottom:10%;
+    text-align: justify;
+    font-size: 20px;
+}
+#Projects{
+    display:flex;
+    flex-wrap:wrap;
+}
