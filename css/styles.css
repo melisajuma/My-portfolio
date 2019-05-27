@@ -120,3 +120,13 @@ h4{
     background-color: turquoise;
     
 }
+.third{
+    background-image:url(https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=250&w=200);
+    height:300px;
+    width:400px;
+    border:2px solid whitesmoke;
+    padding: 2px;
+    font-size: 20px;
+    color:brown;
+    margin-left:15%;
+}
