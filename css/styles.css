@@ -18,3 +18,9 @@ body{
     transform: translate(-50%);
     transition-property: width, height;
 }
+h1{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size:50px;
+    color:#663300;
+}
