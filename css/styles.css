@@ -59,3 +59,14 @@ h4{
     margin-left:5%;
     margin-right:5%;
 }
+#Blog{
+    margin-left:5%;
+    margin-right:5%;
+}
+.sections{
+    /*border: 2px solid silver;*/
+    overflow: hidden;
+    margin:3%;
+    padding:2%;
+    text-align:center;
+}
