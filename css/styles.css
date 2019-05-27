@@ -8,3 +8,17 @@ body{
 .ppic img{
         border-radius: 100%;
 }
+.ppic{
+    width:350px;
+    height:330px;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    margin-top:5%;
+    transform: translate(-50%);
+    transition-property: width, height;
+}
+.ppic:hover{
+    width: 500px;
+    height: 500px;
+}
