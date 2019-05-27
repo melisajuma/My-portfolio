@@ -18,7 +18,3 @@ body{
     transform: translate(-50%);
     transition-property: width, height;
 }
-.ppic:hover{
-    width: 500px;
-    height: 500px;
-}
