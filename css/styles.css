@@ -86,3 +86,23 @@ h4{
     font-size:30px;
     margin-left:45%;
 }
+#nav{
+    display: flex;
+    margin-left:80%;
+    transform: translate(-50%);
+    margin-bottom:3%;
+}
+#nav li a{
+    text-decoration: none;
+    border: 3px solid #1a0d00;
+    margin-right:50%;
+    height: 1px;
+    width: 1px;
+    margin:2px;
+    padding:2px;
+    font-size: 17px;
+    color:#1a0d00;
+}
+#nav li a:hover{
+    background-color: silver;
+}
