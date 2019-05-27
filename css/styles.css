@@ -46,3 +46,12 @@ h4{
     color:brown;
     font-size:30px;
 }
+#intro{
+    margin-bottom: 5%;
+    text-align:center;
+    margin-right: 18%;
+    margin-left: 18%;
+    color:#663300;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
